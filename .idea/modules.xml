@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/google.protobuf.iml" filepath="$PROJECT_DIR$/.idea/modules/google.protobuf.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/google.protobuf_main.iml" filepath="$PROJECT_DIR$/.idea/modules/google.protobuf_main.iml" group="google.protobuf" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/google.protobuf_test.iml" filepath="$PROJECT_DIR$/.idea/modules/google.protobuf_test.iml" group="google.protobuf" />
+    </modules>
+  </component>
+</project>
