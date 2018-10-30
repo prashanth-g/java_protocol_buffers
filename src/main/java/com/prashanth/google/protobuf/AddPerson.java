@@ -58,11 +58,6 @@ class AddPerson {
     //   adds one person based on user input, then writes it back out to the same
     //   file.
     public static void main(String[] args) throws Exception {
-//        if (args.length != 1) {
-//            System.err.println("Usage:  AddPerson ADDRESS_BOOK_FILE");
-//            System.exit(-1);
-//        }
-
         AddressBookProtos.AddressBook.Builder addressBook = AddressBookProtos.AddressBook.newBuilder();
 
         // Read the existing address book.
